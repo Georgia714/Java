@@ -9,7 +9,7 @@ import java.security.SecureRandom;
 import java.util.*;
 import java.util.Scanner;
 
-public class GeorgiaPasswordHW {
+public class PasswordEncrypter {
 
 
     public static void main(String[] args) throws NoSuchAlgorithmException {
