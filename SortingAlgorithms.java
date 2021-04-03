@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 
-public class georgiaJava2 {
+public class SortingAlgorithms {
 
     public static void main(String[] args) {
         /*double[] revenues = {150.00, 200.00, 154.98, 335.01, 475.12, 555.87, 216.38};
