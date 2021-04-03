@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class georgiaJava1 {
+public class Calculator {
 
     //This functions asks a user for their first and last name, then prints out their full name.
     public static void inputName() {
